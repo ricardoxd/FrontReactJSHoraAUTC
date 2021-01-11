@@ -31,7 +31,7 @@ class Inicio extends React.Component {
   }
   onGetUTC() {
     const { time, zone} = this.state;
-    fetch('http://localhost:8080/prueba2/webresources/apiprueba',{
+    fetch('https://javaproblema2.mircloud.host/rest/apiprueba/utc',{
       method: 'post',
       body: "dato1="+time+"&dato2="+zone,
       headers: {
