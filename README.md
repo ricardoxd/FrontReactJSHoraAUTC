@@ -1,3 +1,13 @@
+#Front ReactJS
+
+##Componentes utilizados
+ ReactJS 17.0.1
+ Nodejs 12.5.0
+ 
+ Se ejecuta con npm start
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
